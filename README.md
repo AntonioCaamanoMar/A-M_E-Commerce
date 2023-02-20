@@ -1,3 +1,6 @@
+# Trying to solve this challenge and adapt it to something I need
+Solving this challenge allows me to learn how to use the tools to build an E-commerce
+
 # Frontend Mentor - E-commerce product page
 
 ![Design preview for the E-commerce product page coding challenge](./design/desktop-preview.jpg)
